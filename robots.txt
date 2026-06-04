@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chriselek22-hash.github.io/Bodyblueprint.fitness-/sitemap.xml
